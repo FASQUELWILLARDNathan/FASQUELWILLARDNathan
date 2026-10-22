@@ -6,8 +6,7 @@
 
 *Building modern web applications, one commit at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-NeyZnn-181717?style=for-the-badge&logo=github)](https://github.com/NeyZnn)
-![Profile Views](https://komarev.com/ghpvc/?username=NeyZnn&style=for-the-badge&color=0969da)
+[![GitHub](https://img.shields.io/badge/GitHub-FASQUELWILLARDNathan-181717?style=for-the-badge&logo=github)](https://github.com/FASQUELWILLARDNathan)
 
 </div>
 
@@ -15,15 +14,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a third-year Computer Science student in France, passionate about **full-stack web development** and software engineering.
+I'm a third-year Computer Science student at **IUT du Littoral Côte d'Opale**, France, passionate about full-stack development and software engineering.
 
-I enjoy turning ideas into real applications, from designing clean user interfaces to building robust backend systems.
+I enjoy transforming ideas into real-world applications, from building intuitive frontend interfaces to designing reliable backend systems and databases.
 
-- 🎓 Studying Computer Science at **IUT du Littoral Côte d'Opale**
+- 🎓 Currently pursuing a **BUT in Computer Science**
 - 💻 Focused on **TypeScript, Vue, Nuxt and Node.js**
-- 🚀 Building projects around **esports, fitness and web technologies**
+- 🚀 Developing applications around **esports, fitness and education**
 - 🧠 Exploring **AI integration, cybersecurity and software architecture**
-- 🎯 Always looking to improve my skills and build useful products
+- 🎯 Interested in creating useful, scalable and maintainable software
 
 ### 🛠️ Tech Stack
 
@@ -47,17 +46,18 @@ I enjoy turning ideas into real applications, from designing clean user interfac
 
 **🎮 Riftly — League of Legends Esports Platform**
 
-A full-stack esports platform featuring:
+A full-stack esports application designed to explore competitive League of Legends data.
+
 - Live, upcoming and completed match tracking
 - Team statistics and performance analysis
 - Match prediction engine based on historical data
-- REST API and PostgreSQL database
+- REST API powered by PostgreSQL and Prisma
 
 `Nuxt` `Vue` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
 
 **🏋️ Spot — Fitness Tracking Application**
 
-A web application focused on workout tracking and fitness progress.
+A fitness web application focused on managing workouts and tracking training progress.
 
 `Nuxt` `TypeScript` `Node.js` `Express`
 
@@ -67,22 +67,16 @@ A full-stack application developed during my internship at Centre Scolaire Saint
 
 - Role-based access for teachers, students and administrators
 - Assignment creation, submissions and grading
-- File uploads, notifications and course management
-- User management and authentication
+- File uploads and course management
+- User authentication and administration
 
 `Vue` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker`
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 
-<div align="center">
+Explore my repositories and contributions directly on my GitHub profile.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeyZnn&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyZnn&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NeyZnn&theme=github-dark-blue&hide_border=true)
-
-</div>
+[![GitHub Profile](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASQUELWILLARDNathan?tab=repositories)
 
 ---
 
